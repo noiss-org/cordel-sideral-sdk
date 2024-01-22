@@ -28,9 +28,9 @@ Saiba mais sobre o SDK acessando a página abaixo:
 [sobre-nosso-sdk.md](primeiros-passos/sobre-nosso-sdk.md)
 {% endcontent-ref %}
 
-## Um projeto livre e aberto para tode
+## Um projeto livre e aberto para todas as pessoas
 
-Nós acreditamos no poder da colaboração para a criação de histórias plurais, inclusivas e e de qualidade. Foi por isso que abrimos o Cordel Sideral ao mundo.
+Nós acreditamos no poder da colaboração para a criação de histórias plurais, inclusivas e de qualidade. Foi por isso que abrimos o Cordel Sideral ao mundo.
 
 Qualquer pessoa pode ajudar a expandir nosso universo ou utilizá-lo em suas criações (inclusive para fins comerciais), contanto que as distribua sob a mesma licença [**Creative Commons CC BY-NC-SA 4.0**](primeiros-passos/termos-de-uso.md).
 
