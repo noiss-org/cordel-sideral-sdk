@@ -39,7 +39,7 @@ Os seguintes materiais são incluídos na distribuição oficial do SDK do Corde
 
 O material é frequentemente atualizado com novas adições e correções. Todas as atualizações são versionadas, significando que:
 
-* Cada grande atualização é chamada de release, possui um nome próprio e um número único, como 1.0, 2.0, 3.0, etc;
+* Cada grande atualização, chamada de _release_, possui um nome próprio e um número único, como 1.0, 2.0, 3.0, etc;
 * Alterações menores são lançadas dentro de um mesmo release e podem ser numeradas de diferentes formas, dependendo da sua complexidade. Ex: 1.1, 2.3, 2.1.2, etc;
 
 Saiba mais sobre as versões já lançadas do nosso SDK acessando a página abaixo:
@@ -48,9 +48,9 @@ Saiba mais sobre as versões já lançadas do nosso SDK acessando a página abai
 [changelog.md](../story-development-kit/changelog.md)
 {% endcontent-ref %}
 
-As atualizações do SDK são planejadas com atencedência e, em geral, estão ligadas ao lançamento de novas histórias ou outros conteúdos do Cordel Sideral. Entretanto, atualizações desconectadas a histórias também podem ocorrer.
+As atualizações do SDK são planejadas com antecedência e, em geral, estão ligadas ao lançamento de novas histórias ou outros conteúdos do Cordel Sideral. Entretanto, atualizações desconectadas das histórias também podem ocorrer.
 
-Você pode acessar o nosso roadmap, que mostra o planejamento de futuras atualizações, clicando neste link.
+Você pode acessar o nosso roadmap, que mostra o planejamento de futuras atualizações, clicando [neste link](../story-development-kit/changelog.md).
 
 ## Como utilizo o material do SDK?
 
@@ -68,9 +68,11 @@ Se deseja saber mais sobre como utilizar o SDK em suas próprias criações, ace
 
 ## Por que o nome "SDK"?
 
-Como o Cordel Sideral é um projeto de ficção científica, não conseguimos perder a oportunidade de nomear a documentação do nosso universo de "SDK".
+Como o Cordel Sideral é um projeto de ficção científica, não conseguimos perder a oportunidade de nomear a documentação do nosso universo de "SDK", _Story Development Kit_.
 
-A sigla é muito presente no desenvolvimento de software e, na programação, um SDK desempenha o mesmo papel que a nossa documentação. Além disso, somos fãs de trocadilhos e piadas do tipo e não conseguimos resistir à tentação :sweat\_smile:
+A sigla é muito presente no desenvolvimento de software, contexto em que um SDK (_Software Development Kit_), desempenha o mesmo papel que a nossa documentação.
+
+Além disso, somos fãs de trocadilhos e piadas do tipo e não conseguimos resistir à tentação :sweat\_smile:
 
 ## Permissões de uso
 
